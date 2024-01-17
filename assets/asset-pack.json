@@ -1,0 +1,113 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images /background.png",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": "assets/images /ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images /basket1.json",
+                "type": "json",
+                "key": "basket1"
+            },
+            {
+                "url": "assets/images /box.json",
+                "type": "json",
+                "key": "box"
+            },
+            {
+                "url": "assets/images /box1.json",
+                "type": "json",
+                "key": "box1"
+            },
+            {
+                "url": "assets/images /bucket.png",
+                "type": "image",
+                "key": "bucket"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "src/Managers/LevelManager.js",
+                "type": "script",
+                "key": "LevelManager"
+            },
+            {
+                "url": "assets/images /particle.png",
+                "type": "image",
+                "key": "particle"
+            },
+            {
+                "url": "assets/images /path.json",
+                "type": "json",
+                "key": "path"
+            },
+            {
+                "url": "src/components/platformComponent.js",
+                "type": "script",
+                "key": "platformComponent"
+            },
+            {
+                "url": "assets/images /ring.png",
+                "type": "image",
+                "key": "ring"
+            },
+            {
+                "url": "assets/images /ring.json",
+                "type": "json",
+                "key": "ring_1"
+            },
+            {
+                "url": "assets/images /ring-2.json",
+                "type": "json",
+                "key": "ring-2"
+            },
+            {
+                "url": "assets/images /ring1.png",
+                "type": "image",
+                "key": "ring1"
+            },
+            {
+                "url": "assets/images /ringFile.json",
+                "type": "json",
+                "key": "ringFile"
+            },
+            {
+                "url": "assets/images /spike.png",
+                "type": "image",
+                "key": "spike"
+            },
+            {
+                "url": "assets/images /stick.png",
+                "type": "image",
+                "key": "stick"
+            },
+            {
+                "url": "assets/images /stick2.png",
+                "type": "image",
+                "key": "stick2"
+            },
+            {
+                "url": "assets/images /stick3.png",
+                "type": "image",
+                "key": "stick3"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
